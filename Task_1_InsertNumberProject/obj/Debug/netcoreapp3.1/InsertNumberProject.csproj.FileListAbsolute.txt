@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\InsertNumberProject\bin\Debug\netcoreapp3.1\InsertNumberProject.exe
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\InsertNumberProject\bin\Debug\netcoreapp3.1\InsertNumberProject.deps.json
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\InsertNumberProject\bin\Debug\netcoreapp3.1\InsertNumberProject.runtimeconfig.json
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\InsertNumberProject\bin\Debug\netcoreapp3.1\InsertNumberProject.runtimeconfig.dev.json
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\InsertNumberProject\bin\Debug\netcoreapp3.1\InsertNumberProject.dll
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\InsertNumberProject\bin\Debug\netcoreapp3.1\InsertNumberProject.pdb
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\InsertNumberProject\obj\Debug\netcoreapp3.1\InsertNumberProject.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\InsertNumberProject\obj\Debug\netcoreapp3.1\InsertNumberProject.AssemblyInfo.cs
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\InsertNumberProject\obj\Debug\netcoreapp3.1\InsertNumberProject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\InsertNumberProject\obj\Debug\netcoreapp3.1\InsertNumberProject.dll
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\InsertNumberProject\obj\Debug\netcoreapp3.1\InsertNumberProject.pdb
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\InsertNumberProject\obj\Debug\netcoreapp3.1\InsertNumberProject.genruntimeconfig.cache
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\InsertNumberProject\obj\Debug\netcoreapp3.1\InsertNumberProject.csprojAssemblyReference.cache
