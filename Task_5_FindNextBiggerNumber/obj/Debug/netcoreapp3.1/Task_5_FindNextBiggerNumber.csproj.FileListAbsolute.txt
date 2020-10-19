@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\Task_5_FindNextBiggerNumber\bin\Debug\netcoreapp3.1\Task_5_FindNextBiggerNumber.exe
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\Task_5_FindNextBiggerNumber\bin\Debug\netcoreapp3.1\Task_5_FindNextBiggerNumber.deps.json
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\Task_5_FindNextBiggerNumber\bin\Debug\netcoreapp3.1\Task_5_FindNextBiggerNumber.runtimeconfig.json
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\Task_5_FindNextBiggerNumber\bin\Debug\netcoreapp3.1\Task_5_FindNextBiggerNumber.runtimeconfig.dev.json
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\Task_5_FindNextBiggerNumber\bin\Debug\netcoreapp3.1\Task_5_FindNextBiggerNumber.dll
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\Task_5_FindNextBiggerNumber\bin\Debug\netcoreapp3.1\Task_5_FindNextBiggerNumber.pdb
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\Task_5_FindNextBiggerNumber\obj\Debug\netcoreapp3.1\Task_5_FindNextBiggerNumber.csprojAssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\Task_5_FindNextBiggerNumber\obj\Debug\netcoreapp3.1\Task_5_FindNextBiggerNumber.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\Task_5_FindNextBiggerNumber\obj\Debug\netcoreapp3.1\Task_5_FindNextBiggerNumber.AssemblyInfo.cs
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\Task_5_FindNextBiggerNumber\obj\Debug\netcoreapp3.1\Task_5_FindNextBiggerNumber.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\Task_5_FindNextBiggerNumber\obj\Debug\netcoreapp3.1\Task_5_FindNextBiggerNumber.dll
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\Task_5_FindNextBiggerNumber\obj\Debug\netcoreapp3.1\Task_5_FindNextBiggerNumber.pdb
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\Task_5_FindNextBiggerNumber\obj\Debug\netcoreapp3.1\Task_5_FindNextBiggerNumber.genruntimeconfig.cache
