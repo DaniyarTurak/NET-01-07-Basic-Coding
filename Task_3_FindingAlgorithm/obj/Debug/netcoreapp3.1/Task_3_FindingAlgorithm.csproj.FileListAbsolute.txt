@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\Task_3_FindingAlgorithm\bin\Debug\netcoreapp3.1\Task_3_FindingAlgorithm.exe
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\Task_3_FindingAlgorithm\bin\Debug\netcoreapp3.1\Task_3_FindingAlgorithm.deps.json
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\Task_3_FindingAlgorithm\bin\Debug\netcoreapp3.1\Task_3_FindingAlgorithm.runtimeconfig.json
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\Task_3_FindingAlgorithm\bin\Debug\netcoreapp3.1\Task_3_FindingAlgorithm.runtimeconfig.dev.json
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\Task_3_FindingAlgorithm\bin\Debug\netcoreapp3.1\Task_3_FindingAlgorithm.dll
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\Task_3_FindingAlgorithm\bin\Debug\netcoreapp3.1\Task_3_FindingAlgorithm.pdb
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\Task_3_FindingAlgorithm\obj\Debug\netcoreapp3.1\Task_3_FindingAlgorithm.csprojAssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\Task_3_FindingAlgorithm\obj\Debug\netcoreapp3.1\Task_3_FindingAlgorithm.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\Task_3_FindingAlgorithm\obj\Debug\netcoreapp3.1\Task_3_FindingAlgorithm.AssemblyInfo.cs
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\Task_3_FindingAlgorithm\obj\Debug\netcoreapp3.1\Task_3_FindingAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\Task_3_FindingAlgorithm\obj\Debug\netcoreapp3.1\Task_3_FindingAlgorithm.dll
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\Task_3_FindingAlgorithm\obj\Debug\netcoreapp3.1\Task_3_FindingAlgorithm.pdb
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\Task_3_FindingAlgorithm\obj\Debug\netcoreapp3.1\Task_3_FindingAlgorithm.genruntimeconfig.cache

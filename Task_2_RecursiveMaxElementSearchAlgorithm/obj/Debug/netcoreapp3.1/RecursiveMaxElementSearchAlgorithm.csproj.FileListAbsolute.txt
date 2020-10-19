@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\RecursiveMaxElementSearchAlgorithm\bin\Debug\netcoreapp3.1\RecursiveMaxElementSearchAlgorithm.exe
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\RecursiveMaxElementSearchAlgorithm\bin\Debug\netcoreapp3.1\RecursiveMaxElementSearchAlgorithm.deps.json
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\RecursiveMaxElementSearchAlgorithm\bin\Debug\netcoreapp3.1\RecursiveMaxElementSearchAlgorithm.runtimeconfig.json
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\RecursiveMaxElementSearchAlgorithm\bin\Debug\netcoreapp3.1\RecursiveMaxElementSearchAlgorithm.runtimeconfig.dev.json
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\RecursiveMaxElementSearchAlgorithm\bin\Debug\netcoreapp3.1\RecursiveMaxElementSearchAlgorithm.dll
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\RecursiveMaxElementSearchAlgorithm\bin\Debug\netcoreapp3.1\RecursiveMaxElementSearchAlgorithm.pdb
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\RecursiveMaxElementSearchAlgorithm\obj\Debug\netcoreapp3.1\RecursiveMaxElementSearchAlgorithm.csprojAssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\RecursiveMaxElementSearchAlgorithm\obj\Debug\netcoreapp3.1\RecursiveMaxElementSearchAlgorithm.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\RecursiveMaxElementSearchAlgorithm\obj\Debug\netcoreapp3.1\RecursiveMaxElementSearchAlgorithm.AssemblyInfo.cs
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\RecursiveMaxElementSearchAlgorithm\obj\Debug\netcoreapp3.1\RecursiveMaxElementSearchAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\RecursiveMaxElementSearchAlgorithm\obj\Debug\netcoreapp3.1\RecursiveMaxElementSearchAlgorithm.dll
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\RecursiveMaxElementSearchAlgorithm\obj\Debug\netcoreapp3.1\RecursiveMaxElementSearchAlgorithm.pdb
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\RecursiveMaxElementSearchAlgorithm\obj\Debug\netcoreapp3.1\RecursiveMaxElementSearchAlgorithm.genruntimeconfig.cache
