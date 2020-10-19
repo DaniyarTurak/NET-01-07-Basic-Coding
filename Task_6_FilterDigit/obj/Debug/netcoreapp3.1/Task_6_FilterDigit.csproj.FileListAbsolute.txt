@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\Task_6_FilterDigit\bin\Debug\netcoreapp3.1\Task_6_FilterDigit.exe
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\Task_6_FilterDigit\bin\Debug\netcoreapp3.1\Task_6_FilterDigit.deps.json
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\Task_6_FilterDigit\bin\Debug\netcoreapp3.1\Task_6_FilterDigit.runtimeconfig.json
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\Task_6_FilterDigit\bin\Debug\netcoreapp3.1\Task_6_FilterDigit.runtimeconfig.dev.json
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\Task_6_FilterDigit\bin\Debug\netcoreapp3.1\Task_6_FilterDigit.dll
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\Task_6_FilterDigit\bin\Debug\netcoreapp3.1\Task_6_FilterDigit.pdb
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\Task_6_FilterDigit\obj\Debug\netcoreapp3.1\Task_6_FilterDigit.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\Task_6_FilterDigit\obj\Debug\netcoreapp3.1\Task_6_FilterDigit.AssemblyInfo.cs
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\Task_6_FilterDigit\obj\Debug\netcoreapp3.1\Task_6_FilterDigit.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\Task_6_FilterDigit\obj\Debug\netcoreapp3.1\Task_6_FilterDigit.dll
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\Task_6_FilterDigit\obj\Debug\netcoreapp3.1\Task_6_FilterDigit.pdb
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\Task_6_FilterDigit\obj\Debug\netcoreapp3.1\Task_6_FilterDigit.genruntimeconfig.cache
+C:\Users\Lenovo\Source\Repos\Net_01_07_BasicCoding\Task_6_FilterDigit\obj\Debug\netcoreapp3.1\Task_6_FilterDigit.csprojAssemblyReference.cache
